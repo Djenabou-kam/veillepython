@@ -1,0 +1,21 @@
+body	{
+	background-color: ivory;
+
+
+
+}
+h1{font-size: 50px; 
+	;}
+	h2{background-color:darkorange; color: whitesmoke;}
+	strong{color: black;}
+
+.of{
+	background: darkorange;
+	color: floralwhite; 
+	height: 255px;
+}
+h1{
+	margin-left: 650px;
+	margin-top: -200px;
+}
+u{color: black;}
